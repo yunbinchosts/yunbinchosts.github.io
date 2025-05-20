@@ -9,16 +9,16 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+📚 **Publications**
+
 <div class="publications">
-
-## 📚 Publications
-
 {% bibliography --file publications %}
+</div>
 
 ---
 
-## 🎤 Conference Presentations
+🎤 **Conference Presentations**
 
+<div class="publications">
 {% bibliography --file conferences %}
-
 </div>
