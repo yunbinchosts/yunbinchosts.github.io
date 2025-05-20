@@ -194,6 +194,7 @@ exclude:
   - readme_preview/
   - vendor
   - _books/
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
