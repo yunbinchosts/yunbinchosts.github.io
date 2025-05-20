@@ -22,3 +22,11 @@ nav_order: 2
 <div class="publications">
 {% bibliography --file conferences %}
 </div>
+
+---
+
+👩🏻‍💼 **Others**
+
+<div class="publications">
+{% bibliography --file others %}
+</div>
