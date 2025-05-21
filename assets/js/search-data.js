@@ -191,7 +191,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
+          section: "News",},{id: "projects-elsi-rri-for-geoengineering",
+          title: 'ELSI-RRI for Geoengineering',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/geo/";
+            },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
           title: 'Public Engagement in Sustainable AI in East Asia',
           description: "with background image",
           section: "Projects",handler: () => {
