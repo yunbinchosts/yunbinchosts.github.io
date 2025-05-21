@@ -23,4 +23,4 @@ Taking it literally, the AI begins to spread the love everywhere.
 
 This short manga was awarded the Special Jury Prize (実行委員会特別賞) in the General Category at the [26th Edition (2023) Niigata Manga Competition](https://manganime-niigata.jp/results/5069/). 
 
-The artist continues to pursue challenges in manga, especially at the intersection of science and storytelling.If you're interested in reading the full manga, or contact with the artist, feel free to contact me via email. Also, I welcome all forms of collaboration!
+The artist continues to pursue challenges in manga, especially at the intersection of science and storytelling. If you're interested in reading the full manga, or contact with the artist, feel free to contact me via email. Also, I welcome all forms of collaboration!
