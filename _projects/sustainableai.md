@@ -14,8 +14,8 @@ Situated at the intersection of global challenges such as AI and sustainability,
 
 In response to this gap, my master's and doctoral research project seeks to explore the following questions, with a specific focus on Japan as a key case:
 
-### 1. What perceptions do East Asian citizens hold regarding the challenges surrounding the research, development, and governance of Sustainable AI?
-### 2. How can citizens in East Asia meaningfully participate in addressing these challenges?
+#### 1. What perceptions do East Asian citizens hold regarding the challenges surrounding the research, development, and governance of Sustainable AI?
+#### 2. How can citizens in East Asia meaningfully participate in addressing these challenges?
 
 AI may open up new pathways for civic engagement in the pursuit of sustainability. With care and sincerity, I seek to take one step at a time toward realizing such possibilities within East Asian societies.
 
