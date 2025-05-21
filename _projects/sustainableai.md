@@ -18,6 +18,3 @@ In response to this gap, my master's and doctoral research project seeks to expl
 #### 2. How can citizens in East Asia meaningfully participate in addressing these challenges?
 
 AI may open up new pathways for civic engagement in the pursuit of sustainability. With care and sincerity, I seek to take one step at a time toward realizing such possibilities within East Asian societies.
-
-
-
