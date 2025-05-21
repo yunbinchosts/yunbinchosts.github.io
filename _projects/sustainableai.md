@@ -5,7 +5,7 @@ description: How can the public be engaged in East Asia to foster a better socie
 img: assets/img/sai.png
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 AI brings innovation and transformative potential to our society; yet, it simultaneously poses significant threats to sustainability through its intensive consumption of energy and resources, as well as the potential for biased outcomes. The concept of **"Sustainable"** AI by [Van Wynsberghe (2021)](https://link.springer.com/article/10.1007/s43681-021-00043-6#ref-CR17) addresses this dual aspects, aligning AI development with the Sustainable Development Goals (SDGs).
