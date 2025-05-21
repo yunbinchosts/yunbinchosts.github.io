@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-i-asked-sam-altman-to-consider-the-possibility-of-imperfect-ai",
         
           title: "I asked Sam Altman to consider the possibility of imperfect AI",
