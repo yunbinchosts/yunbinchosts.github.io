@@ -5,7 +5,7 @@ description:
 img: assets/img/nuclear.png
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 The development of AI is accelerating public discourse on nuclear energy. Japan, having overcome the Fukushima Daiichi Accident, has also set a policy direction to maximize the use of nuclear power in its 7th Strategic Energy Plan.
