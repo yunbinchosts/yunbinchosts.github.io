@@ -22,4 +22,5 @@ During the session, Mr. Altman asked us, "What do you want us to build?". In res
 
 You can watch the video [here](https://youtu.be/8LmfkUb2uIY?si=mwFnLzxBSwM3F56x), starting at 39:55. 
 
-It's time to think not the result of AI but the process WITH AI. Hope AI evolve our human society🖖 
+It’s time to focus not just on the outcomes of AI, but on the process of evolving with AI.
+I hope AI contributes to the evolution of a more human-centered society🖖 
