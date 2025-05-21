@@ -2,7 +2,7 @@
 layout: page
 title: Public Engagement in Sustainable AI in East Asia
 description: with background image
-img: assets/img/sustainableai.png
+img: assets/img/sai.png
 importance: 1
 category: research
 related_publications: true
