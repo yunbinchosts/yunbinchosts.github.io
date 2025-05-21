@@ -468,7 +468,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/yunbin cho", "_blank");
+          window.open("https://www.linkedin.com/in/yunbin-cho-687629307", "_blank");
         },
       },{
         id: 'social-x',
