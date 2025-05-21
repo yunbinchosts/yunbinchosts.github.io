@@ -7,6 +7,7 @@ importance: 1
 category: personal
 related_publications: true
 ---
+
 **Both manga artists and scientists are dreamers**. While they use different tools and languages, their visions often converge. However, communicating complex and fast-evolving technologies like AI to creators is not easy. Manga artists don’t need to master technical details, but they do need the right kind of inspiration.
 
 As someone who has worked as a story assistant across various manga genres, I’ve helped artists explore themes such as AI ethics and technical concepts like reinforcement learning from human feedback (RLHF). This work led to an award-winning piece at the Niigata Manga Competition (see blog for details).
