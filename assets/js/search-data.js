@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-academic-activity",
-          title: "Academic Activity",
+          title: "academic activity",
           description: "A list of my conference presentations, journal publications, and other scholar contributions.",
           section: "Navigation",
           handler: () => {
