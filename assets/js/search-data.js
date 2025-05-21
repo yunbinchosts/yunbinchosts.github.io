@@ -198,7 +198,7 @@ ninja.data = [{
               window.location.href = "/projects/geo/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
           title: 'Public Engagement in Sustainable AI in East Asia',
-          description: "with background image",
+          description: "How can the public be engaged in East Asia to foster a better society through Sustainable AI?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sustainableai/";
             },},{
