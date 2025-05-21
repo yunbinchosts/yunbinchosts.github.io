@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Public Engagement in Sustainable AI in East Asia
 description: with background image
 img: assets/img/sustainableai.png
 importance: 1
