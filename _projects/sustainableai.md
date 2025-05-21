@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Engagement in Sustainable AI in East Asia
-description: with background image
+description: How can the public be engaged in East Asia to foster a better society through Sustainable AI?
 img: assets/img/sai.png
 importance: 1
 category: research
@@ -18,5 +18,6 @@ In response to this gap, my master's and doctoral research project seeks to expl
 ### 2. How can citizens in East Asia meaningfully participate in addressing these challenges?
 
 AI may open up new pathways for civic engagement in the pursuit of sustainability. With care and sincerity, I seek to take one step at a time toward realizing such possibilities within East Asian societies.
+
 
 
