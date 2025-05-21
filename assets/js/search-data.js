@@ -174,6 +174,11 @@ ninja.data = [{
           description: "Revisiting ELSI and RRI through the lens of geoengineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/geo/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/manga/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
           title: 'Public Engagement in Sustainable AI in East Asia',
           description: "How can the public be engaged in East Asia to foster a better society through Sustainable AI?",
