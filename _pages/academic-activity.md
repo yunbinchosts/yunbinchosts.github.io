@@ -9,6 +9,7 @@ nav_order: 2
 ---
 
 {% include bib_search.liquid %}
+
 📚 **Publications**
 <div class="publications">
 {% bibliography --file publications %}
