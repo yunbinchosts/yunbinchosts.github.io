@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
@@ -24,7 +24,7 @@ latest_posts:
 ---
 
 Thank you for visiting my website!
-My name is Yunbin Cho, and I am a second-year master's student in [the Graduate School of Interdisciplinary Information Studies](https://www.iii.u-tokyo.ac.jp/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/). I am a member of [Prof. Hiromi M. Yokoyama’s laboratory](https://member.ipmu.jp/hiromi.yokoyama/en/index.html).
+My name is Yunbin Cho, and I am a master's student in [the Graduate School of Interdisciplinary Information Studies](https://www.iii.u-tokyo.ac.jp/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/). I am a member of [Prof. Hiromi M. Yokoyama’s laboratory](https://member.ipmu.jp/hiromi.yokoyama/en/index.html).
 
 My major is **Science & Technology Studies (STS)**. I am interested in using quantitative methods to reflect the voices of the public—particularly **East Asian citizens**—in science and technology. Currently, I am researching public opinion and engagement with **Sustainable AI**, mainly in Japan. More broadly, I am exploring the relationship between the public and topics such as **AI ethics**, **nuclear energy**, and **geoengineering**.
 
