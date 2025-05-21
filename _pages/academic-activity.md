@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /academic-activity/
-title: Academic Activity
+title: academic activity
 description: A list of my conference presentations, journal publications, and other scholar contributions.
 nav: true
 nav_order: 2
