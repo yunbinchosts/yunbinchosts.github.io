@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Manga x AI - Co-Creating Our Future with AI
-description: Science communication for manga artists
+title: When Science Meets Manga
+description: Co-creating our future of AI with science communication between scientists and manga artists
 img: assets/img/manga.jpg
 importance: 1
 category: personal
