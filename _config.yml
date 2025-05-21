@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yunbin
 middle_name:
 last_name: Cho
-contact_note: > yunbincho@g.ecc.u-tokyo.ac.jp
+contact_note: > 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: yunbin-cho, yunbin-cho-sts, yunbin-cho-japan, sts, japan, AI, Sustainable AI
