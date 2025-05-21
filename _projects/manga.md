@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Manga x AI: Co-Creating Our Future with AI
-description: with background image
-img: Science communication for manga artists
+description: Science communication for manga artists
+img: assets/img/manga.jpg
 importance: 1
 category: personal
 related_publications: true
