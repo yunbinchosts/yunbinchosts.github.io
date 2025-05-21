@@ -174,9 +174,9 @@ ninja.data = [{
           description: "Revisiting ELSI and RRI through the lens of geoengineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/geo/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-manga-x-ai-co-creating-our-future-with-ai",
+          title: 'Manga x AI - Co-Creating Our Future with AI',
+          description: "Science communication for manga artists",
           section: "Projects",handler: () => {
               window.location.href = "/projects/manga/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
