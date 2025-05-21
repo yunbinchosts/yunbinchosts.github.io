@@ -119,11 +119,16 @@ ninja.data = [{
           description: "Revisiting ELSI and RRI through the lens of geoengineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/geo/";
-            },},{id: "projects-manga-x-ai-co-creating-our-future-with-ai",
-          title: 'Manga x AI - Co-Creating Our Future with AI',
-          description: "Science communication for manga artists",
+            },},{id: "projects-when-science-meets-manga",
+          title: 'When Science Meets Manga',
+          description: "Co-creating our future of AI with science communication between scientists and manga artists",
           section: "Projects",handler: () => {
               window.location.href = "/projects/manga/";
+            },},{id: "projects-public-perceptions-of-ai-and-nuclear-energy-in-japan",
+          title: 'Public Perceptions of AI and Nuclear Energy in Japan',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nuclear/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
           title: 'Public Engagement in Sustainable AI in East Asia',
           description: "How can the public be engaged in East Asia to foster a better society through Sustainable AI?",
