@@ -31,7 +31,7 @@
       "endDate": "2024-03",
     }
   ],
-  "awards": [
+  "Honors and Awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -42,9 +42,9 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Data Science",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Niigata University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
