@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/samaltman/";
           
         },
+      },{id: "post-co-creating-a-short-manga-on-ai-ethics-with-a-manga-artist",
+        
+          title: "Co-Creating a Short Manga on AI Ethics with a Manga Artist",
+        
+        description: "science communication for creation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/mynameisai/";
+          
+        },
       },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
