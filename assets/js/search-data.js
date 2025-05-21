@@ -48,39 +48,6 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/post-citation/";
-          
-        },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
       },{id: "post-a-post-with-code-diff",
         
           title: "a post with code diff",
@@ -101,17 +68,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -235,7 +191,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sustainableai/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
