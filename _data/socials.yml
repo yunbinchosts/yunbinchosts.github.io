@@ -20,7 +20,7 @@ email: yunbincho@g.ecc.u-tokyo.ac.jp # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: yunbin cho # your LinkedIn user name
+linkedin_username: "yunbin cho" # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -42,6 +42,6 @@ linkedin_username: yunbin cho # your LinkedIn user name
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-x_username: @yun_chan0419 # your X handle
+x_username: "@yun_chan0419" # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
