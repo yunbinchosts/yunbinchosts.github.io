@@ -5,7 +5,7 @@ description: Co-creating our future of AI with science communication between sci
 img: assets/img/manga.jpg
 importance: 1
 category: personal
-related_publications: true
+related_publications: false
 ---
 
 **Both manga artists and scientists are dreamers**. While they use different tools and languages, their visions often converge. However, communicating complex and fast-evolving technologies like AI to creators is not easy. Manga artists don’t need to master technical details, but they do need the right kind of inspiration.
