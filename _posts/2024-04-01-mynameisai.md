@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Co-Creating a Short Manga on AI Ethics with a Manga Artist
-date: 2024-04
+date: 2024-04-01
 description: science communication for creation
 tags: manga
 categories: personal
