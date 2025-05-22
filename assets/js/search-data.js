@@ -85,7 +85,7 @@ ninja.data = [{
               window.location.href = "/projects/nuclear/";
             },},{id: "projects-why-so-few-femain-in-stem",
           title: 'Why so few femain in STEM?',
-          description: "STS investigation from a comparative perspective between Japan and China",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stem/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
