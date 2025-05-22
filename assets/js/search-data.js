@@ -63,7 +63,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-elsi-rri-amp-geoengineering",
+          section: "News",},{id: "projects-sts-barometer",
+          title: 'STS Barometer',
+          description: "STS investigation from a comparative perspective between Japan and China",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/baro/";
+            },},{id: "projects-elsi-rri-amp-geoengineering",
           title: 'ELSI-RRI &amp;amp; Geoengineering',
           description: "Revisiting ELSI and RRI through the lens of geoengineering",
           section: "Projects",handler: () => {
