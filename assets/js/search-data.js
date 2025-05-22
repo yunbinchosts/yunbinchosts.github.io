@@ -83,6 +83,11 @@ ninja.data = [{
           description: "Why do older Japanese people tend to support environmentalism but oppose nuclear energy more than younger people?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nuclear/";
+            },},{id: "projects-why-so-few-femain-in-stem",
+          title: 'Why so few femain in STEM?',
+          description: "STS investigation from a comparative perspective between Japan and China",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stem/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
           title: 'Public Engagement in Sustainable AI in East Asia',
           description: "How can the public be engaged in East Asia to foster a better society through Sustainable AI?",
