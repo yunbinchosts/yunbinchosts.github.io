@@ -75,7 +75,7 @@ ninja.data = [{
               window.location.href = "/projects/manga/";
             },},{id: "projects-public-perceptions-of-ai-and-nuclear-energy-in-japan",
           title: 'Public Perceptions of AI and Nuclear Energy in Japan',
-          description: "",
+          description: "Why do older Japanese people tend to support environmentalism but oppose nuclear energy more than younger people?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nuclear/";
             },},{id: "projects-public-engagement-in-sustainable-ai-in-east-asia",
