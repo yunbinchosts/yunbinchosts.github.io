@@ -63,9 +63,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-sts-barometer",
-          title: 'STS Barometer',
-          description: "STS investigation from a comparative perspective between Japan and China",
+          section: "News",},{id: "projects-sts-investigation-from-a-comparative-perspective-between-japan-and-china",
+          title: 'STS investigation from a comparative perspective between Japan and China',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baro/";
             },},{id: "projects-elsi-rri-amp-geoengineering",
