@@ -1,6 +1,6 @@
 ---
 layout: page
-title: STS investigation from a comparative perspective between Japan and China
+title: STS Barometer
 description: 
 img: assets/img/baro.jpg
 redirect: https://member.ipmu.jp/hiromi.yokoyama/sts-baro.html
