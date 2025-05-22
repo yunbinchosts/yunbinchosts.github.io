@@ -18,7 +18,7 @@ thumbnail: assets/img/mynameisai.png
 
 I communicated the technical and ethical aspects of AI to a manga artist such as RLHF (Reinforcement Learning with Human Feedback). 
 
-This led to the creation of a unique short story: "My name is AI". In the manga, an AI developer falls in love with a woman named "Ai". When he tells the AI about her, the system mistakenly interprets Ai not as a person’s name, but as the Japanese word for "love" (愛/ai). Taking it literally, the AI begins to spread the love everywhere.
+This led to the creation of a unique short story: "**My name is AI**". In the manga, an AI developer falls in love with a woman named "Ai". When he tells the AI about her, the system mistakenly interprets Ai not as a person’s name, but as the Japanese word for "love" (愛/ai). Taking it literally, the AI begins to spread the love everywhere.
 
 This short manga was awarded the Special Jury Prize (実行委員会特別賞) in the General Category at the [26th Edition (2023) Niigata Manga Competition](https://manganime-niigata.jp/results/5069/). 
 
