@@ -4,7 +4,7 @@ title: Public Engagement in Sustainable AI in East Asia
 description: How can the public be engaged in East Asia to foster a better society through Sustainable AI?
 img: assets/img/sai.png
 importance: 1
-category: research
+category: research (main)
 related_publications: false
 ---
 
