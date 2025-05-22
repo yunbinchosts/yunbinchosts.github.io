@@ -3,7 +3,7 @@ layout: page
 title: Public Perceptions of AI and Nuclear Energy in Japan
 description: Why do older Japanese people tend to support environmentalism but oppose nuclear energy more than younger people?
 img: assets/img/nuclear.png
-importance: 1
+importance: 2
 category: research
 related_publications: false
 ---
