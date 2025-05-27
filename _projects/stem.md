@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why so few femain in STEM?
+title: Why so few female in STEM?
 description: 
 img: assets/img/stem.jpg
 redirect: https://member.ipmu.jp/hiromi.yokoyama/stem-gender.html
