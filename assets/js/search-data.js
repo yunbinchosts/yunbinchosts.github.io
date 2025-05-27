@@ -83,8 +83,8 @@ ninja.data = [{
           description: "Why do older Japanese people tend to support environmentalism but oppose nuclear energy more than younger people?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nuclear/";
-            },},{id: "projects-why-so-few-femain-in-stem",
-          title: 'Why so few femain in STEM?',
+            },},{id: "projects-why-so-few-female-in-stem",
+          title: 'Why so few female in STEM?',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stem/";
