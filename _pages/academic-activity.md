@@ -12,7 +12,7 @@ nav_order: 2
 
 📚 **Publications**
 <div class="publications">
-{% bibliography --file publications %}
+{% bibliography --file papers %}
 </div>
 
 ---
